@@ -1,0 +1,44 @@
+﻿  Account.cpp
+  Bill.cpp
+C:\Users\Tuan Kiet\source\repos\Sales_Management\Sales_Management\Bill.cpp(107,34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tuan Kiet\source\repos\Sales_Management\Sales_Management\Bill.cpp(146,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tuan Kiet\source\repos\Sales_Management\Sales_Management\Bill.cpp(163,30): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tuan Kiet\source\repos\Sales_Management\Sales_Management\Bill.cpp(172,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  BillManagement.cpp
+C:\Users\Tuan Kiet\source\repos\Sales_Management\Sales_Management\BillManagement.cpp(76,44): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tuan Kiet\source\repos\Sales_Management\Sales_Management\BillManagement.cpp(95,44): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tuan Kiet\source\repos\Sales_Management\Sales_Management\BillManagement.cpp(100,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tuan Kiet\source\repos\Sales_Management\Sales_Management\BillManagement.cpp(324,6): warning C4102: 'Xoa': unreferenced label
+C:\Users\Tuan Kiet\source\repos\Sales_Management\Sales_Management\BillManagement.cpp(433,31): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tuan Kiet\source\repos\Sales_Management\Sales_Management\BillManagement.cpp(439,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tuan Kiet\source\repos\Sales_Management\Sales_Management\BillManagement.cpp(445,47): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Box_Draw.cpp
+C:\Users\Tuan Kiet\source\repos\Sales_Management\Sales_Management\Box_Draw.cpp(14,14): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\Tuan Kiet\source\repos\Sales_Management\Sales_Management\Box_Draw.cpp(14,17): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\Tuan Kiet\source\repos\Sales_Management\Sales_Management\Box_Draw.cpp(36,51): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tuan Kiet\source\repos\Sales_Management\Sales_Management\Box_Draw.cpp(66,44): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tuan Kiet\source\repos\Sales_Management\Sales_Management\Box_Draw.cpp(73,68): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tuan Kiet\source\repos\Sales_Management\Sales_Management\Box_Draw.cpp(82,69): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tuan Kiet\source\repos\Sales_Management\Sales_Management\Box_Draw.cpp(87,56): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Employee.cpp
+  EmployeeManagement.cpp
+C:\Users\Tuan Kiet\source\repos\Sales_Management\Sales_Management\EmployeeManagement.cpp(69,44): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tuan Kiet\source\repos\Sales_Management\Sales_Management\EmployeeManagement.cpp(84,44): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tuan Kiet\source\repos\Sales_Management\Sales_Management\EmployeeManagement.cpp(103,44): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tuan Kiet\source\repos\Sales_Management\Sales_Management\EmployeeManagement.cpp(108,45): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tuan Kiet\source\repos\Sales_Management\Sales_Management\EmployeeManagement.cpp(108,45): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+C:\Users\Tuan Kiet\source\repos\Sales_Management\Sales_Management\EmployeeManagement.cpp(316,32): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+C:\Users\Tuan Kiet\source\repos\Sales_Management\Sales_Management\main.cpp(234,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  MD5.cpp
+C:\Users\Tuan Kiet\source\repos\Sales_Management\Sales_Management\MD5.cpp(78,39): warning C4267: 'argument': conversion from 'size_t' to 'MD5::size_type', possible loss of data
+  Product.cpp
+  ProductManagement.cpp
+C:\Users\Tuan Kiet\source\repos\Sales_Management\Sales_Management\ProductManagement.cpp(62,44): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tuan Kiet\source\repos\Sales_Management\Sales_Management\ProductManagement.cpp(87,44): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tuan Kiet\source\repos\Sales_Management\Sales_Management\ProductManagement.cpp(93,43): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tuan Kiet\source\repos\Sales_Management\Sales_Management\ProductManagement.cpp(93,43): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+C:\Users\Tuan Kiet\source\repos\Sales_Management\Sales_Management\ProductManagement.cpp(274,31): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  LINK : C:\Users\Tuan Kiet\source\repos\Sales_Management\x64\Debug\Sales_Management.exe not found or not built by the last incremental link; performing full link
+  Sales_Management.vcxproj -> C:\Users\Tuan Kiet\source\repos\Sales_Management\x64\Debug\Sales_Management.exe
