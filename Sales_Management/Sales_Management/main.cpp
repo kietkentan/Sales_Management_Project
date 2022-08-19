@@ -191,6 +191,7 @@ void MenuEmployee() {
 				employee = "";
 				if (LoginEmployeeSession())
 					break;
+				else return;
 			}
 			break;
 
